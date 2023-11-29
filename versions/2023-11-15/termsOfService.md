@@ -143,6 +143,7 @@ If you do not comply with these Terms, and we don’t take action right away, th
 “Customer Security Requirements” means our Customer Security Requirements available at <https://terra.bio/about/customer-security-requirements/> or such other location as we may notify you of.
 
 “Data Protection Addendum” means our Data Processing Terms available at <https://support.terra.bio/hc/en-us/articles/10860018891291> or such other location as we may notify you of.
+
 “Deidentify” means, with respect to any Content you Connect to Terra, the process of removing individual identifiers to the extent required in order to render the Content deidentified under 45 CFR § 164.514 of HIPAA; anonymized under GDPR Recital 26; or in accordance with other applicable law. 
 
 “Enterprise License Agreement” means a separately executed, legally binding written agreement between you or the entity on whose behalf you are accessing and using Terra and Broad Institute, covering (among other things) your use of and access to Terra and your Content.
