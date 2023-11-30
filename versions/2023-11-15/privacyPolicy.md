@@ -15,7 +15,7 @@ We collect and use Personal Data through your use of the Services in the followi
 
 ***1.a User Account Information/Personally Identifiable Information***
 
-- When you register with us through the Services and during your use of the Services, we will ask you for Personal Data such as: your name, company or organization name, title, and e-mail address.
+- When you register with us through the Services and during your use of the Services, we will ask you for Personal Data such as: your name, company or organization name, title, e-mail address.
 
 ***1.b Information You Provide***
 
