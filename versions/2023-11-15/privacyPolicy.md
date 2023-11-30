@@ -6,8 +6,7 @@ This Privacy Policy is supplied by The Broad Institute (“Broad,” “we,” �
 
 This Privacy Policy applies to Broad where Broad is the “controller” of your Personal Data, i.e., the entity that determines the purposes and means for processing such data. Broad may in some cases process Personal Data on behalf of users of Terra, such as where Users load Personal Data including genomics data to Terra. In that case, Broad is a “processor” with respect to such information, and you should refer to the User’s own privacy notices to receive additional information about their privacy practices.
 
-Certain capitalized terms have the meaning as defined in our [Terms of Service](https://terra.bio/about/terms-of-service/), incorporated herein by reference. If you have any questions about Broad’s privacy practices, please email:
-[privacy@broadinstitute.org](mailto:privacy@broadinstitute.org).
+Certain capitalized terms have the meaning as defined in our [Terms of Service](https://terra.bio/about/terms-of-service/), incorporated herein by reference. If you have any questions about Broad’s privacy practices, please email: [privacy@broadinstitute.org](mailto:privacy@broadinstitute.org).
 
 ## 1. Personal Data We Collect
 When we use the term “Personal Data” we mean information that relates to a specific person, or that can be used to identify a specific person, such as a name or email address. In this Privacy Policy, we do not include Protected Health Information in the definition of Personal Data because, as discussed in Section 2 (Protected Health Information), Protected Health Information has different treatment under the Health Insurance Portability and Accountability Act of 1996, as amended, and its implementing regulations (“HIPAA”) and other applicable laws. “Protected Health Information” or “PHI” is individually identifiable health information that is protected by HIPAA.
@@ -16,7 +15,7 @@ We collect and use Personal Data through your use of the Services in the followi
 
 ***1.a User Account Information/Personally Identifiable Information***
 
-- When you register with us through the Services and during your use of the Services, we will ask you for Personal Data such as: your name, company or organization name, title, e-mail address, postal address, telephone number.
+- When you register with us through the Services and during your use of the Services, we will ask you for Personal Data such as: your name, company or organization name, title, and e-mail address.
 
 ***1.b Information You Provide***
 
@@ -30,7 +29,7 @@ We collect and use Personal Data through your use of the Services in the followi
 
 - We use cookies, tracking pixels, and other similar technologies to track activity on our Services and to enhance the functionality of our Services. Cookies are small data files that our web servers send to your browser and which get saved on the hard drive of the computer that you are using to access the Services. If you do not want to allow cookies on your computer, most browsers have a feature that allows you either to automatically decline cookies or to decline or accept particular cookies from particular websites. If you choose to reject cookies from our Services, you may be unable to use certain Services features, and functionality. If you choose to accept cookies from us and our service providers, you are agreeing to let us and our service providers install cookies on your computer. To learn more about cookies, please visit <http://allaboutcookies.org>. Tracking pixels (also known as web beacons, action tags, or transparent GIF files) collect and store information about your visits to our Services, such as page visits, the duration of the visit, the specific link(s) that you clicked during your visit, and the address of the website from which you arrived at the Services.
 
-- We use Google Analytics to better understand how Users interact with our Services. To learn more about the use of Cookies by Google for analytics and to exercise choice regarding those Cookies, please visit the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout).
+- We may use services such as Google Analytics to better understand how Users interact with our Services. To learn more about the use of Cookies by Google for analytics and to exercise choice regarding those Cookies, please visit the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout).
 
 - Do Not Track (“DNT”) is a privacy preference that Users can set in certain web browsers. We are committed to providing you with meaningful choices about the information collected on our website for third-party purposes, and that is why we provide the variety of opt-out mechanisms listed above. We do not currently use technology that recognizes “do not track” signals from your Web browser.
 
@@ -44,9 +43,8 @@ We use Personal Data as described below:
 
 - We may use your Personal Data to provide and improve Terra and our other products and services, to ensure contact information is up to date and accurate, to improve our customer service, to reduce risk and prevent fraud, to provide you with a personalized experience on our Services and to communicate with you regarding new service features and related products and services provided by our Collaborators or other partners, events, and other information and notices we believe you may find interesting or useful. We will not sell or provide your information to third parties other than the Collaborators for their own direct marketing purposes.
 
-<!-- -->
 
-- We use Usage Data collected to provide, maintain, secure, and improve our Services, and to understand your interests when visiting our Services. We may generate statistical information regarding our User-base and use it to analyze our Services or business.
+- We use Usage Data collected to provide, maintain, secure, and improve our Services, and to understand your interests when visiting our Services. We may generate statistical information regarding our User-base and use it to analyze our Services or business. Usage Data, such as IP address, may be shared with third-party tools leveraged by Terra in order to enable us to understand how you are using Terra and to improve your user experience by providing onboarding prompts to help you use Terra effectively.
 
 ## 4. With Whom May Broad Share Your Personal Data?
 
@@ -62,7 +60,7 @@ We share Personal Data with the following categories of recipients:
 
 *Vendors and Service Providers*
 
-- We use [various third-party service providers](https://support.terra.bio/hc/en-us/articles/360039434212), such as Google Cloud, Microsoft Azure, and MixPanel, that assist us in providing Terra. For example, we may use third-party vendors to store and authenticate account credentials, store and analyze system logs, send email communications, and for hosting and storing information collected through our Platform. We may need to share your information with these vendors and service providers to enable them to provide these services to us. These service providers and vendors are required to only use your information to provide their services to us and in a manner consistent with this Policy.
+- We use [various third-party service providers](https://support.terra.bio/hc/en-us/articles/360039434212), such as Google Cloud, Microsoft Azure, AppCues, and MixPanel, that assist us in providing Terra. For example, we may use third-party vendors to store and authenticate account credentials, store and analyze system logs, send email communications, and for hosting and storing information collected through our Platform. We may need to share your information with these vendors and service providers to enable them to provide these services to us. These service providers and vendors are required to only use your information to provide their services to us and in a manner consistent with this Policy.
 
 *Business Transactions*
 
@@ -90,7 +88,7 @@ We share Personal Data with the following categories of recipients:
 
 ## 9. Notice to Individuals Located in the European Economic Area, United Kingdom, or Switzerland
 
-- Our processing of Personal Data about individuals located in the European Economic Area, United Kingdom, and Switzerland may be within the scope of the European Union’s General Data Protection Regulation (EU Regulation 2016/679) (“EU GDPR”), its incorporation into the laws of England and Wales, Scotland, and Northern Ireland by virtue of the UK European Union (Withdrawal) Act 2018, the Data Protection Act 2018 and/or the Swiss Federal Act on Data Protection, as applicable (together, the “GDPR”). This portion of our Privacy Policy  applies only to our processing of Personal Data that is within the scope of the GDPR (“GDPR Processing Activities”).
+- Our processing of Personal Data about individuals located in the European Economic Area, United Kingdom, and Switzerland may be within the scope of the European Union’s General Data Protection Regulation (EU Regulation 2016/679) (“EU GDPR”), its incorporation into the laws of England and Wales, Scotland, and Northern Ireland by virtue of the UK European Union (Withdrawal) Act 2018, the Data Protection Act 2018 and/or the Swiss Federal Act on Data Protection, as applicable (together, the “GDPR”). This portion of our Privacy Policy applies only to our processing of Personal Data that is within the scope of the GDPR (“GDPR Processing Activities”).
 
 - We rely on separate and overlapping bases to process your Personal Data. We will use the Personal Data provided through or collected on the Services only for the purposes described in this Privacy Policy. Our legal bases for processing your Personal Data include providing you with the information or Services that you have requested in a secure manner, furthering our legitimate business interests, and your consent, if applicable.
 
