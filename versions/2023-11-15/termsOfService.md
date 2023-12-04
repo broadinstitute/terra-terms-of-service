@@ -31,7 +31,7 @@ Your Terra Account. In order to use Terra, you will need to register for a Terra
 
 Accessing a Government Website. To the extent you have selected research data from certain U.S. Government sources, you acknowledge that the following terms apply: (1) Users are accessing a U.S. Government information system; (2) Information system usage may be monitored, recorded and subject to audit; (3) Unauthorized use of the information system is prohibited and subject to criminal and civil penalties; and (4) Use of the information system indicates consent to monitoring and recording.
 
-Terra Security Requirements. To use Terra, you must comply with any and all security requirements that we make available at <https://terra.bio/resources/security/> or such other location as we may notify you of, including in the Customer Security Requirements. Users must ensure that your Web browsers use Transport Layer Security (TLS) 1.2 (or higher). SSL and TLS must use a minimum of 256-bit encryption.
+Terra Security Requirements. To use Terra, you must comply with any and all customer and user security requirements, and use Terra in a manner consistent with any and all security requirements, that we make available at <https://terra.bio/resources/security/> or such other location as we may notify you of, including in the Customer Security Requirements. Users must ensure that your Web browsers use Transport Layer Security (TLS) 1.2 (or higher). SSL and TLS must use a minimum of 256-bit encryption.
 
 Announcements. In connection with your use of Terra, we may send you service announcements, administrative messages, and other information. You may opt out of some of these communications.
 
