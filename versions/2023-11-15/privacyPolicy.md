@@ -1,6 +1,6 @@
 # Terra Platform Privacy Policy
 
-Last Updated: October 17, 2025
+Last Updated: October 16, 2025
 
 This Privacy Policy is supplied by The Broad Institute (“Broad,” “we,” “us” or “our”) and describes how Personal Data is collected and used by Broad via the Terra platform and all associated websites (including [terra.bio](https://terra.bio)) (“Terra”) developed by Verily, Microsoft and Broad (together with their affiliates, the “Collaborators”). This Privacy Policy applies only to the websites and other online properties that directly link to it, which we refer to herein as the “Services”.
 
