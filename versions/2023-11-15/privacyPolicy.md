@@ -1,6 +1,6 @@
 # Terra Platform Privacy Policy
 
-Last Updated: November 15, 2023
+Last Updated: October 17, 2025
 
 This Privacy Policy is supplied by The Broad Institute (“Broad,” “we,” “us” or “our”) and describes how Personal Data is collected and used by Broad via the Terra platform and all associated websites (including [terra.bio](https://terra.bio)) (“Terra”) developed by Verily, Microsoft and Broad (together with their affiliates, the “Collaborators”). This Privacy Policy applies only to the websites and other online properties that directly link to it, which we refer to herein as the “Services”.
 
@@ -60,7 +60,7 @@ We share Personal Data with the following categories of recipients:
 
 *Vendors and Service Providers*
 
-- We use [various third-party service providers](https://support.terra.bio/hc/en-us/articles/360039434212), such as Google Cloud, Microsoft Azure, AppCues, and MixPanel, that assist us in providing Terra. For example, we may use third-party vendors to store and authenticate account credentials, store and analyze system logs, send email communications, and for hosting and storing information collected through our Platform. We may need to share your information with these vendors and service providers to enable them to provide these services to us. These service providers and vendors are required to only use your information to provide their services to us and in a manner consistent with this Policy.
+- We use [various third-party service providers](https://support.terra.bio/hc/en-us/articles/360039434212), such as Google Cloud, Microsoft Azure, Manifold, AppCues, and MixPanel, that assist us in providing Terra. For example, we may use third-party vendors to store and authenticate account credentials, store and analyze system logs, send email communications, and for hosting and storing information collected through our Platform. We may need to share your information with these vendors and service providers to enable them to provide these services to us. These service providers and vendors are required to only use your information to provide their services to us and in a manner consistent with this Policy.
 
 *Business Transactions*
 
@@ -115,5 +115,5 @@ We share Personal Data with the following categories of recipients:
 ## 11. Contact Us
 
 - If you have any questions about our privacy practices, you may contact us using the following email address: [privacy@broadinstitute.org](mailto:privacy@broadinstitute.org).
-- You may contact our Data Protection Officer at: [whedglon@broadinstitute.org](mailto:whedglon@broadinstitute.org).
-- You may contact our EU/UK Representative at: [whedglon@broadinstitute.org](mailto:whedglon@broadinstitute.org).
+- You may contact our Data Protection Officer at: [privacy@broadinstitute.org](mailto:privacy@broadinstitute.org).
+- You may contact our EU/UK Representative at: [privacy@broadinstitute.org](mailto:privacy@broadinstitute.org).
